@@ -3,5 +3,6 @@
 void RevertString(char *str)
 {
 	// your code here
+	printf("mi code heare");
 }
 
