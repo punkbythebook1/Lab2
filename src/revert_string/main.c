@@ -3,11 +3,16 @@
 #include <string.h>
 
 #include "revert_string.h"
+<<<<<<< HEAD
 //my commit 1
+=======
+
+>>>>>>> refs/heads/master
 int main(int argc, char *argv[])
 {
 	if (argc != 2)
 	{
+	        printf("MY COMMIT IN PRINT");
 		printf("Usage: %s string_to_revert\n", argv[0]);
 		return -1;
 	}
