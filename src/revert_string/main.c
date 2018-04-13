@@ -3,7 +3,11 @@
 #include <string.h>
 
 #include "revert_string.h"
+<<<<<<< HEAD
 //my commit 1
+=======
+
+>>>>>>> refs/heads/master
 int main(int argc, char *argv[])
 {
 	if (argc != 2)
